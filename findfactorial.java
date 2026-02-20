@@ -1,4 +1,4 @@
-package Assignmentquest;
+package Assignmentquest;//java package
 
 import java.util.Scanner;
 
